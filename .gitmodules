@@ -1,0 +1,3 @@
+[submodule "nk-php-sdk"]
+	path = nk-php-sdk
+	url = https://github.com/naszaklasa/nk-php-sdk.git
